@@ -1,3 +1,8 @@
+* {
+  box-sizing: border-box;
+}
+
+
 html {
   background: #0025FF;
   color: #fff;
@@ -22,6 +27,23 @@ header {
   margin-top: 55px;
 }
 
-.yearbook img {
+.logo-placement {
+  text-align: center;
+}
+
+.image img {
   width: 25%;
+}
+
+.image {
+  padding: 20px;
+  color: black;
+  background: white;
+}
+
+.yearbook {
+  padding: 30px;
+  margin: 0;
+  background: green;
+
 }

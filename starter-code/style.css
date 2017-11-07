@@ -1,6 +1,7 @@
 html {
   background: #0025FF;
   color: #fff;
+  width: 100%;
 }
 
 header {
@@ -19,4 +20,8 @@ header {
 .logo img {
   width: 140px;
   margin-top: 55px;
+}
+
+.yearbook img {
+  width: 25%;
 }
